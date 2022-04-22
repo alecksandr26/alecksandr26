@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alecksandr26
-- 👀 I’m interested in computers...
-- 🌱 I’m currently learning everything releated with a computer
-- 💞️ I’m looking to collaborate on any project
+- 👋 Hi, I’m @alecksandr26.
+- 👀 I’m interested in computers.
+- 🌱 I’m currently learning everything releated with a computer.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me sansepiol26@gmail.com
 
 <!---
