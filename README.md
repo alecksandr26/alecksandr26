@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @alecksandr26.
-- 👀 I’m interested in computers.
-- 🌱 I’m currently learning everything releated with a computer.
-- 💞️ I’m looking to collaborate on any project.
-- 📫 How to reach me sansepiol26@gmail.com
+# 👋 Hi, I’m Erick Alejandro or @alecksandr26.
+Currently I code in C/C++, Python and Javascript.
+I love to use linux, It is my currenly operating system.
 
 <!---
 alecksandr26/alecksandr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
