@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Erick Alejandro or @alecksandr26.
-Currently I code in C/C++, Python and Javascript. <br /><br />
-I love to use linux, It is my currenly operating system. <br /><br />
-Pls will be a honor if you take a look at my personal projects. <br /><br />
-And feel free to do a fork and play with them. <br />
+:sunglasses: Currently I code in C/C++, Python and Javascript. <br /><br />
+:two_hearts: I love to use linux, It is my currenly operating system. <br /><br />
+:raised_hands: Pls will be a honor if you take a look at my personal projects. <br /><br />
+:runner: And feel free to do a fork and play with them. <br />
 
-My linkedin profile: [Link](https://www.linkedin.com/in/erick-alejandro-carrillo-lopez-988112219/)
+:point_right: My linkedin profile: [Link](https://www.linkedin.com/in/erick-alejandro-carrillo-lopez-988112219/)
 
 
 <!---
