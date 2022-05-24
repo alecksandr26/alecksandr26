@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Erick Alejandro or @alecksandr26.
-Currently I code in `C/C++`, `Python` and `Javascript` :eyes::eyes::eyes:. <br /><br />
+Currently I code in `C/C++`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. <br /><br />
 I love to use `linux` :two_hearts::two_hearts:, It is my currenly operating system. <br /><br />
 Pls will be a honor if you take a look at my personal projects. :raised_hands: <br /><br />
 And feel free to do a fork and play with them. :runner: <br />
