@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Erick Alejandro or @alecksandr26.
-[![Alecksandr GitHub stats](https://github-readme-stats.vercel.app/api?username=alecksandr26)](https://github.com/alecksandr26/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecksandr26)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently I code in `C/C++`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. <br /><br />
 I love to use `linux` :two_hearts::two_hearts:, It is my currenly operating system. <br /><br />
