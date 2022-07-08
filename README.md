@@ -6,7 +6,9 @@
 - I love to use `linux` :two_hearts::two_hearts:, It is my currenly operating system. <br /><br />
 - Pls will be a honor if you take a look at my personal projects. :raised_hands: <br /><br />
 - And feel free to do a fork and play with any of my projects. :runner: <br />
+
 <br />
+
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecksandr26&count_private=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
