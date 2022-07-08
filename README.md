@@ -1,6 +1,8 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center"> 👋 Hi, I’m Erick Alejandro or @alecksandr26.</h1>
 
+<a href="https://www.linkedin.com/in/erick-alejandro-carrillo-lopez-988112219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
 ### I am a Programmer
 - Currently I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
 - I love to use `linux` :two_hearts::two_hearts:, It is my currenly operating system. 
