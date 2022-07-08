@@ -26,6 +26,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&theme=darcula" width="37%" alt="nihadenes's Top Languages">
 
+<hr />
+
+[linkedin]: https://www.linkedin.com/in/nihad-enes-%C5%9Fen-166651211/
 <!---
       alecksandr26/alecksandr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
