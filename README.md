@@ -13,10 +13,10 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/W9lzJDwciz6bS/giphy.gif"  style="width: 100px;" />
 
 ### I am a Programmer
-- Currently I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
-- I love to use `linux` :two_hearts::two_hearts:, It is my currenly operating system. 
-- Pls will be a honor if you take a look at my personal projects. :raised_hands:
-- Feel free to do a fork and play with any of my projects. :runner: 
+- Currently, I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
+- I love to use `linux` :two_hearts::two_hearts:, is the operating system that I always use.
+- Pls it'd be a honor if you take a look at my personal projects. :raised_hands:
+- Feel free to fork and play with any of my projects. :runner: 
 
 <br />
 <br />
