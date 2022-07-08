@@ -1,6 +1,9 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center"> Hi, I’m Erick or @alecksandr26 👋</h1>
 
+
+<img align="center" src="https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif" />
+
 <p align="center">
 <a href="https://www.linkedin.com/in/erick-alejandro-carrillo-lopez-988112219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:erick.carrillo4982@alumnos.udg.mx?subject=Hello, Erick"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
