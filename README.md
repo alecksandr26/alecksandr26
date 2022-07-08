@@ -17,6 +17,8 @@
 - And feel free to do a fork and play with any of my projects. :runner: 
 
 <br />
+<br />
+<br />
 
 ## Github stats
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=alecksandr26&show_icons=true&count_private=true&theme=darcula" alt="nihadenes's Github Stats" width="60%">
