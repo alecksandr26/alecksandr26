@@ -1,5 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-# 👋 Hi, I’m Erick Alejandro or @alecksandr26.
+<h1 align="center"> 👋 Hi, I’m Erick Alejandro or @alecksandr26.</h1>
 
 Currently I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. <br /><br />
 I love to use `linux` :two_hearts::two_hearts:, It is my currenly operating system. <br /><br />
