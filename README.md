@@ -10,8 +10,9 @@
 <br />
 
 ## Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecksandr26&count_private=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=alecksandr26&show_icons=true&count_private=true&theme=darcula" alt="nihadenes's Github Stats" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&theme=darcula" width="37%" alt="nihadenes's Top Languages">
 
 <hr />
 
