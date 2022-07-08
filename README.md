@@ -28,7 +28,9 @@
 
 <hr />
 
-[linkedin]: https://www.linkedin.com/in/nihad-enes-%C5%9Fen-166651211/
+[linkedin]: https://www.linkedin.com/in/erick-alejandro-carrillo-lopez-988112219/
+
+
 <!---
       alecksandr26/alecksandr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
