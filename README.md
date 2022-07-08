@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/erick-alejandro-carrillo-lopez-988112219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
+<hr />
 ### I am a Programmer
 - Currently I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
 - I love to use `linux` :two_hearts::two_hearts:, It is my currenly operating system. 
@@ -17,8 +18,6 @@
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=alecksandr26&show_icons=true&count_private=true&theme=darcula" alt="nihadenes's Github Stats" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&theme=darcula" width="37%" alt="nihadenes's Top Languages">
-
-<hr />
 
 <!---
       alecksandr26/alecksandr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
