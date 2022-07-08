@@ -8,7 +8,7 @@
 
 <hr />
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/VHHxxFAeLaYzS/giphy.gif"  style="width: 100px;" />
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/W9lzJDwciz6bS/giphy.gif"  style="width: 100px;" />
 
 ### I am a Programmer
 - Currently I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
