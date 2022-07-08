@@ -8,7 +8,7 @@
 
 <hr />
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/VHHxxFAeLaYzS/giphy.gif" />
 
 ### I am a Programmer
 - Currently I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
@@ -16,6 +16,7 @@
 - Pls will be a honor if you take a look at my personal projects. :raised_hands:
 - And feel free to do a fork and play with any of my projects. :runner: 
 
+<br />
 <br />
 <br />
 <br />
