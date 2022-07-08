@@ -14,7 +14,7 @@
 - Currently I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
 - I love to use `linux` :two_hearts::two_hearts:, It is my currenly operating system. 
 - Pls will be a honor if you take a look at my personal projects. :raised_hands:
-- And feel free to do a fork and play with any of my projects. :runner: 
+- Feel free to do a fork and play with any of my projects. :runner: 
 
 <br />
 <br />
