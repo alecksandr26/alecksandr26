@@ -10,7 +10,7 @@
 
 <hr />
 
-<p float="left">
+<p float="right">
  
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
  
