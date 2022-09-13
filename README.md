@@ -10,7 +10,7 @@
 
 <hr />
 
-![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
+ | ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
 
 ### I am a Programmer
 - Currently, I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
