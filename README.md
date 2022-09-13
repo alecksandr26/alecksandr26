@@ -11,7 +11,9 @@
 <hr />
 
 <p float="left">
+ 
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
+ 
 </p>
 
 ### I am a Programmer
