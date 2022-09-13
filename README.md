@@ -9,7 +9,7 @@
 </p>
 
 <hr />
-<iframe src="https://giphy.com/embed/W9lzJDwciz6bS" width="480" height="411" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-neo-thomas-anderson-W9lzJDwciz6bS">via GIPHY</a></p>
+![](https://media.giphy.com/media/W9lzJDwciz6bS/giphy.gif)
 
 ### I am a Programmer
 - Currently, I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
