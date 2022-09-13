@@ -9,7 +9,8 @@
 </p>
 
 <hr />
-![](https://media.giphy.com/media/W9lzJDwciz6bS/giphy.gif)
+
+![](https://giphy.com/gifs/neo-iLhlW2bctT1f2?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
 
 ### I am a Programmer
 - Currently, I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
