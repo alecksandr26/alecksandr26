@@ -10,7 +10,7 @@
 
 <hr />
 
-![Alt Text](https://giphy.com/gifs/neo-iLhlW2bctT1f2?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
+![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
 
 ### I am a Programmer
 - Currently, I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
