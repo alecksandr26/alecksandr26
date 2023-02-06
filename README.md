@@ -17,7 +17,7 @@
 </p>
 
 ### I am a Programmer
-- Currently, I code in `C`, `Python`, `Javascript` and `nasm` :eyes::eyes::eyes:. 
+- Currently, I code in `C`, `Python`, and `nasm`, yeah I love low level things :eyes::eyes::eyes:. 
 - I love to use `linux` :two_hearts::two_hearts:, is the operating system that I always use.
 - Pls it'd be a honor if you take a look at my personal projects. :raised_hands:
 - Feel free to fork and play with any of my projects. :runner: 
