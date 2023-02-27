@@ -33,7 +33,7 @@
 </div>
 -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="400" height="220" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="400" height="220" />
 
 ### I love codeing
   - Currently, I code in `C`, `Python`, and `nasm`. :eyes::eyes::eyes: 
