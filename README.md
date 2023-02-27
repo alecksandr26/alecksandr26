@@ -17,24 +17,15 @@
 </p>
 
 ### I am a Programmer
-- Currently, I code in `C`, `Python`, and `nasm`, yeah I love low level things :eyes::eyes::eyes:. 
+- Currently, I code in `C`, `Python`, and `nasm` :eyes::eyes::eyes:. 
 - I love to use `linux` :two_hearts::two_hearts:, is the operating system that I always use.
 - Pls it'd be a honor if you take a look at my personal projects. :raised_hands:
 - Feel free to fork and play with any of my projects. :runner: 
 
 <br />
-<br />
-<br />
-<br />
 
 ## Github stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-<hr />
-<br />
-<br />
-
-[linkedin]: https://www.linkedin.com/in/erick-alejandro-carrillo-lopez-988112219/
-
 
 <!---
       alecksandr26/alecksandr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
