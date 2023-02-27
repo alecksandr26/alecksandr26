@@ -57,7 +57,7 @@
   
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) -->
  
- <img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff" width="500" height="320" />
+ <img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff" width="400" height="220" />
 
 </div>
 
