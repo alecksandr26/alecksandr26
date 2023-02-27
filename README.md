@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<table style="border:0px solid white; width:100%;">
+<table style="border:0px solid white !important; width:100%;">
 <tr>
  <td style="border:0px; width:33.33%">
   <div align="left">
