@@ -33,7 +33,7 @@
 </div>
 -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300" height="120" />
 
 ### I love code
   - Currently, I code in `C`, `Python`, and `nasm`. :eyes::eyes::eyes: 
@@ -52,12 +52,12 @@
 <div align="center">
   
   <!---[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
-  <img align="left" alt="GIF" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width="550" height="320" />
+  <img align="left" alt="GIF" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width="350" height="120" />
 
   
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) -->
  
- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff" width="400" height="320" />
+ <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff" width="200" height="120" />
 
 </div>
 
