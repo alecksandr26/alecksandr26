@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<table>
+<table border="0">
 <tr>
  <td>
   <div align="left">
@@ -37,7 +37,7 @@
 
 ## My stats
 <div align="center">
-<table>
+<table border="0">
 <tr>
  <td>
   
