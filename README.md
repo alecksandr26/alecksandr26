@@ -6,7 +6,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/erick-alejandro-carrillo-lopez-988112219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:erick.carrillo4982@alumnos.udg.mx?subject=Hello, Erick"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
- <a href="https://www.youtube.com/channel/UCj5cR9leamxh-ThquJegCbg"><img src="https://img.shields.io/youtube/channel/UCj5cR9leamxh-ThquJegCbg" alt="Youtube"/></a>&nbsp;
+
+ <a href="https://www.youtube.com/channel/UCj5cR9leamxh-ThquJegCbg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/></a>&nbsp;
 </p>
 
 <hr />
