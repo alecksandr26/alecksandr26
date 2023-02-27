@@ -10,14 +10,13 @@
 
 <hr />
 <div align="center">
- 
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
 </div>
 
 ### I am a Programmer
 - Currently, I code in `C`, `Python`, and `nasm` :eyes::eyes::eyes:. 
-- I love to use `linux` :two_hearts::two_hearts:, is the operating system that I always use.
-- Pls it'd be a honor if you take a look at my personal projects. :raised_hands:
+- I love to use `linux` :two_hearts::two_hearts:, Its my favorit work enviroment.
+- Pls It'd be a honor if you take a look at my personal projects. :raised_hands:
 - Feel free to fork and play with any of my projects. :runner: 
 
 ## My stats
