@@ -14,7 +14,7 @@
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
 </div>
 
-<table style="border: none">
+<table style="border: none!important;">
 <tr>
  <td>
   <h3>I am a Programmer</h3>
@@ -35,7 +35,7 @@
 
 ## My stats
 <div align="center">
-<table style="border: none">
+<table style="border: none!important;">
 <tr>
  <td>
   
