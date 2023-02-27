@@ -17,15 +17,17 @@
 <table>
 <tr>
  <td>
-### I am a Programmer
-- Currently, I code in `C`, `Python`, and `nasm` :eyes::eyes::eyes:. 
-- I love to use `linux` :two_hearts::two_hearts:, Its my favorit work enviroment.
-- Pls It'd be a honor if you take a look at my personal projects. :raised_hands:
-- Feel free to fork and play with any of my projects. :runner: 
+  <h3>I am a Programmer</h3>
+  <ul>
+   <li>Currently, I code in `C`, `Python`, and `nasm` :eyes::eyes::eyes:. </li>
+   <li>I love to use `linux` :two_hearts::two_hearts:, Its my favorit work enviroment. </li>
+   <li>Pls It'd be a honor if you take a look at my personal projects. :raised_hands: </li>
+   <li>Feel free to fork and play with any of my projects. :runner: </li>
+  </ul>
  </td>
  <td>
   
-  <iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
+ 
   
  </td>
  </tr>
