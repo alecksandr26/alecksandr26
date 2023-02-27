@@ -18,7 +18,7 @@
 <table style="border: none!important;">
 <tr>
  <td>
-  <div align="right">
+  <div align="left">
    
   ### I love code
   - Currently, I code in `C`, `Python`, and `nasm`. :eyes::eyes::eyes: 
