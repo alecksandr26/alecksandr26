@@ -33,7 +33,7 @@
 </div>
 -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTAxZmY4ZDM0ZDQzM2RlMzU4MmRlZjdmYzM4YmRjYmY1M2U1YjlmYSZjdD1n/9WC8WTZsFxkRi/giphy.gif" width="400" height="220" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/aVV4Fx38Y2tdC8LhgG/giphy.gif" width="400" height="220" />
 
 
 ### I love codeing
