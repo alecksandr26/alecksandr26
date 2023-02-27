@@ -14,7 +14,7 @@
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
 </div>
 
-<table>
+<table style="border: 0px">
 <tr>
  <td>
   <h3>I am a Programmer</h3>
@@ -34,12 +34,19 @@
 </table>
 
 ## My stats
-<div align="center">
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+<table style="border: 0px">
+<tr>
+ <td>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ </td>
+ <td>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+ </td>
+ </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <!---
       alecksandr26/alecksandr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
