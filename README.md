@@ -9,12 +9,10 @@
 </p>
 
 <hr />
-
-<p float="right">
+<div align="center">
  
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
- 
-</p>
+</div>
 
 ### I am a Programmer
 - Currently, I code in `C`, `Python`, and `nasm` :eyes::eyes::eyes:. 
