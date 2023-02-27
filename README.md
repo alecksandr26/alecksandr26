@@ -14,9 +14,7 @@
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
 </div>
 
-<table style="border: none!important;">
-<tr>
- <td>
+<div>
   <h3>I am a Programmer</h3>
   <ul>
    <li>Currently, I code in `C`, `Python`, and `nasm` :eyes::eyes::eyes:. </li>
@@ -24,14 +22,8 @@
    <li>Pls It'd be a honor if you take a look at my personal projects. :raised_hands: </li>
    <li>Feel free to fork and play with any of my projects. :runner: </li>
   </ul>
- </td>
- <td>
+ </div> | ![Alt Text](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
   
-  ![Alt Text](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
-  
- </td>
- </tr>
-</table>
 
 ## My stats
 <div align="center">
