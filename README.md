@@ -20,9 +20,7 @@
 - Pls it'd be a honor if you take a look at my personal projects. :raised_hands:
 - Feel free to fork and play with any of my projects. :runner: 
 
-<br />
-
-## Github stats
+## My stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!---
