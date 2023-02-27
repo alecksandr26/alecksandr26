@@ -15,9 +15,9 @@
 </div>
 
 <div align="center">
-<table style="border:0px solid white !important; width:100%;">
+<table>
 <tr>
- <td style="border:0px; width:33.33%">
+ <td>
   <div align="left">
    
   ### I love code
@@ -37,7 +37,7 @@
 
 ## My stats
 <div align="center">
-<table style="border: none!important;">
+<table>
 <tr>
  <td>
   
@@ -50,6 +50,12 @@
  </tr>
 </table>
 </div>
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 <!---
       alecksandr26/alecksandr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
