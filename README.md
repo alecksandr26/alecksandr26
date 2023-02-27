@@ -17,7 +17,7 @@
 <div align="center">
 <table style="border:0px solid white; width:100%;">
 <tr>
- <td>
+ <td style="border:0px; width:33.33%">
   <div align="left">
    
   ### I love code
