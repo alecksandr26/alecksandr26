@@ -14,7 +14,7 @@
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
 </div>
 
-<table style="border: 0px">
+<table style="border: none">
 <tr>
  <td>
   <h3>I am a Programmer</h3>
@@ -34,7 +34,8 @@
 </table>
 
 ## My stats
-<table style="border: 0px">
+<div aling="center">
+<table style="border: none">
 <tr>
  <td>
   
@@ -46,7 +47,7 @@
  </td>
  </tr>
 </table>
-
+</div>
 <!---
       alecksandr26/alecksandr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
