@@ -35,7 +35,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="400" height="220" />
 
-### I love code
+### I love codeing
   - Currently, I code in `C`, `Python`, and `nasm`. :eyes::eyes::eyes: 
   - I love to use `linux` :two_hearts::two_hearts:, Its my favorit work enviroment.
   - Pls It'd be a honor if you take a look at my personal projects. :raised_hands: 
