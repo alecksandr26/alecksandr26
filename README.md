@@ -30,8 +30,6 @@
 ## Github stats
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=alecksandr26&show_icons=true&count_private=true&theme=darcula" alt="nihadenes's Github Stats" width="60%">
 
-
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&theme=darcula" width="60%" alt="nihadenes's Top Languages">
 
 <hr />
