@@ -52,7 +52,7 @@
 <div align="center">
   
   <!---[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
-  <img align="left" alt="GIF" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width="400" height="320" />
+  <img align="left" alt="GIF" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width="600" height="320" />
 
   
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecksandr26&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) -->
