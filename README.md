@@ -33,7 +33,7 @@
 </div>
 -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="500" height="320" />
 
 ### I love code
   - Currently, I code in `C`, `Python`, and `nasm`. :eyes::eyes::eyes: 
