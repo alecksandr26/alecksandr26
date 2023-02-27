@@ -22,7 +22,7 @@
    <li>Pls It'd be a honor if you take a look at my personal projects. :raised_hands: </li>
    <li>Feel free to fork and play with any of my projects. :runner: </li>
   </ul>
- </div> | ![Alt Text](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
+ </div> | <div> ![Alt Text](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif) </div>
   
 
 ## My stats
