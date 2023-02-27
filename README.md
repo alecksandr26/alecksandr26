@@ -14,11 +14,20 @@
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
 </div>
 
+<table>
+<tr>
+ <td>
 ### I am a Programmer
 - Currently, I code in `C`, `Python`, and `nasm` :eyes::eyes::eyes:. 
 - I love to use `linux` :two_hearts::two_hearts:, Its my favorit work enviroment.
 - Pls It'd be a honor if you take a look at my personal projects. :raised_hands:
 - Feel free to fork and play with any of my projects. :runner: 
+ </td>
+ <td>
+  <iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
+ </td>
+ </tr>
+</table>
 
 ## My stats
 <div align="center">
