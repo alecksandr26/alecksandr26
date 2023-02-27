@@ -14,26 +14,33 @@
  ![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
 </div>
 
+<!--  
 <div align="center">
 <table border="0">
 <tr>
  <td>
   <div align="left">
    
-  ### I love code
-  - Currently, I code in `C`, `Python`, and `nasm`. :eyes::eyes::eyes: 
-  - I love to use `linux` :two_hearts::two_hearts:, Its my favorit work enviroment.
-  - Pls It'd be a honor if you take a look at my personal projects. :raised_hands: 
-  - Feel free to fork and play with any of my projects. :runner:
+  
   </div>
  </td>
  <td>
   
-  ![Alt Text](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
+  
  </td>
  </tr>
 </table>
 </div>
+-->
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+### I love code
+  - Currently, I code in `C`, `Python`, and `nasm`. :eyes::eyes::eyes: 
+  - I love to use `linux` :two_hearts::two_hearts:, Its my favorit work enviroment.
+  - Pls It'd be a honor if you take a look at my personal projects. :raised_hands: 
+  - Feel free to fork and play with any of my projects. :runner:
+
 
 ## My stats
 <div align="center">
@@ -51,11 +58,6 @@
 </table>
 </div>
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 <!---
       alecksandr26/alecksandr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
