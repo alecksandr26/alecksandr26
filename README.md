@@ -42,6 +42,7 @@
   - I love to use `linux` :two_hearts::two_hearts:, Its my favorit work enviroment.
   - Pls It'd be a honor if you take a look at my personal projects. :raised_hands: 
   - Feel free to fork and play with any of my projects. :runner:
+  - Here is my [resume](https://github.com/alecksandr26/my-resume/blob/main/MyResume.pdf) if you are interested in reaching me out, thanks
 
 
 <br />
