@@ -48,8 +48,6 @@ Here's a little about me:
   
 I believe in the transformative power of technology and am excited to contribute to its evolution. Let's code the future together! 💻✨
 
-
-
 <br />
 <br />
 <br />
