@@ -38,6 +38,8 @@
 
 ### Passionate Computer Science Student and Developer 🚀
 Hello there! 👋 I'm Erick, a dedicated student of computer science with a fervent passion for coding and technology. 
+<br />
+<br />
 
 
 
@@ -50,9 +52,6 @@ Here's a little about me:
   
 I believe in the transformative power of technology and am excited to contribute to its evolution. Let's code the future together! 💻✨
 
-<br />
-<br />
-<br />
 <br />
 <br />
 
