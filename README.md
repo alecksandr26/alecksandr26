@@ -11,6 +11,7 @@
 
 <hr />
 <div align="center">
+ 
  ![Alt Text](https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif)
 </div>
 
@@ -33,7 +34,7 @@
 </div>
 -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/aVV4Fx38Y2tdC8LhgG/giphy.gif" width="380" height="200" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/aVV4Fx38Y2tdC8LhgG/giphy.gif" width="350" height="170" />
 
 ### Passionate Computer Science Student and Developer 🚀
 Hello there! 👋 I'm Erick, a dedicated student of computer science with a fervent passion for coding and technology. 
