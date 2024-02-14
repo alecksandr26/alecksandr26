@@ -39,6 +39,8 @@
 ### Passionate Computer Science Student and Developer 🚀
 Hello there! 👋 I'm Erick, a dedicated student of computer science with a fervent passion for coding and technology. 
 
+
+
 Here's a little about me:
 - **Programming Languages:** I like to code in `C/C++`, `Python`, and `Linux assembly`. :computer::heart_eyes:  
 - **Operating System:** `Linux` is not just an OS for me; it's my beloved work environment where I feel most at home. :penguin::two_hearts:
