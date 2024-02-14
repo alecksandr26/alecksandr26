@@ -40,8 +40,7 @@
 Hello there! 👋 I'm Erick, a dedicated student of computer science with a fervent passion for coding and technology. 
 <br />
 <br />
-
-
+<br />
 
 Here's a little about me:
 - **Programming Languages:** I like to code in `C/C++`, `Python`, and `Linux assembly`. :computer::heart_eyes:  
